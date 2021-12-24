@@ -11,16 +11,10 @@
     background-color: #54436B;
 }
 
-.icon {
-    position: absolute;
-    top: 50px;
-    transform: translateY(-50%);
-    width: 50%;
-    text-align: center;
-}
 
 .footer {
-padding: 2rem;
+    padding: 2rem;
+    padding-bottom: 10rem;
 background-color: #54436B;
 }
 
