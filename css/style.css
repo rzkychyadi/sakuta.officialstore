@@ -1,14 +1,16 @@
+body {
+    background-color: #54436B;
+    height: 800px;
+}
 .jumbotron {
     font-family: 'Pushster', cursive;
     padding: 2rem;
     color: #707070;
-    background-color: #54436B;
 }
 
 .button {
     padding: 1rem;
     text-transform: uppercase;
-    background-color: #54436B;
 }
 
 .icon {
@@ -21,6 +23,5 @@
 
 .footer {
 padding: 2rem;
-background-color: #54436B;
 }
 
